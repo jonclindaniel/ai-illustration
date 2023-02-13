@@ -1,0 +1,5 @@
+# Tested with Python 3.9.7
+
+requests==2.27.1
+openai==0.26.5
+jupyter==1.0.0
