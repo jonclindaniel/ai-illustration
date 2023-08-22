@@ -1,11 +1,10 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7637300.svg)](https://doi.org/10.5281/zenodo.7637300)
 
-# Supplemental Code for “Artificial Intelligence and Archaeological Illustration”
+# Supplemental Code for “How to Use Artificial Intelligence for Archaeological Illustration”
 
 The code and data in this repository can be used to programmatically
 generate archaeological illustrations akin to those displayed in
-[Magnani and Clindaniel (Under Review) “Artificial Intelligence and
-Archaeological Illustration”](DOI-not-yet-available) using the OpenAI
+[Magnani and Clindaniel (In Press) “How to Use Artificial Intelligence for Archaeological Illustration”](DOI-not-yet-available) using the OpenAI
 image generation API.
 
 The code is written in Python 3.9.7 and all of its dependencies can be

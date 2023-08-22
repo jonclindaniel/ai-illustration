@@ -1,5 +1,5 @@
 # Functions for generating/editing images as in the article
-# "Artificial Intelligence and Archaeological Illustration"
+# "How to Use Artificial Intelligence for Archaeological Illustration"
 #
 # Code Written By: Jon Clindaniel
 #
