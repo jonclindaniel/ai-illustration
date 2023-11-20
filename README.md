@@ -4,7 +4,7 @@
 
 The code and data in this repository can be used to programmatically
 generate archaeological illustrations akin to those displayed in
-[Magnani and Clindaniel (In Press) “Artificial Intelligence and Archaeological Illustration”](DOI-not-yet-available) using the OpenAI
+[Magnani and Clindaniel “Artificial Intelligence and Archaeological Illustration”](https://doi.org/10.1017/aap.2023.25) using the OpenAI
 image generation API.
 
 The code is written in Python 3.9.7 and all of its dependencies can be
